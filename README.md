@@ -20,9 +20,8 @@ The dashboard answers key business questions through 7 interactive charts:
 ## Files Included
 
 - <a href="https://github.com/Kavya-Rajeev/Supermarket-Sales-Analysis/blob/main/SuperMarket_Analysis.xlsx">Dataset</a> – Cleaned super market sales dataset used in Tableau
-- `Dashboard_Screenshots/` – Exported images of all charts and dashboards
-- `Final_Report.pdf` – Visual summary for presentation/sharing
-- `README.md` – Project documentation
+- <a href="https://github.com/Kavya-Rajeev/Supermarket-Sales-Analysis/blob/main/Supermarket%20Analysis.twb">Tableau workbook</a> – Includes all charts and dashboards 
+- <a href="https://github.com/Kavya-Rajeev/Supermarket-Sales-Analysis/blob/main/Final_report-%20supermarket%20analysis.pdf">Final_report</a> – Contains final dashboards and key insights found
 
 ## Conclusion
 
